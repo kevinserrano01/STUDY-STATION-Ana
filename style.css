@@ -4,31 +4,47 @@
 }
 
 body{
-    background-color: black;
+    background-color: #e4e4e455;
+}
+
+.secciones{
+    font-family: 'Bitter', serif;
 }
 
 .imagen-portada{
-    /* background-image: url("./images/fondo-oficial.jpg"); */
-    /* background-repeat: no-repeat; */
-    /* background-attachment: fixed; */
-    /* background-size: cover; */
     width: 100%;
-    /* height: auto; */
-    /* border: 2px solid red; */
+    /* border-radius: 100px; */
+}
+
+.containerDeParrafos{
+    background-image: url("./images/FONDO-MADERA-NEGRA.png");
+}
+
+.parrafo{
+    color: #ffffff;
+    font-family: 'Bitter', serif;
+    font-size: 20px;
+    
+}
+
+.titulosobrenosotros{
+    color: #ffffff;
+    font-family: 'Abril Fatface', cursive;
 }
 
 .Titulo1{
     font-size: 60px;
-    font-family: 'Charis SIL', serif;
-    color: #5C3D2E;
+    font-family: 'Abril Fatface', cursive;
+    color: #c10000;
 }
 
 .Titulo2{
     font-size: 40px;
     font-family: 'Anton', sans-serif;
-    color: #5C3D2E;
+    color: #c10000;
 }
 
-.parrafo{
-    color: white;
+.ubicacion{
+    color: #000000;
+    
 }
